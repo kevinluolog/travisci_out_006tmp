@@ -1,0 +1,2 @@
+# travisci_out_006tmp
+仓库tran006tmp的输出仓
